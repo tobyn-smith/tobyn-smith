@@ -1,16 +1,75 @@
-## Hi there 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Tobyn%20Smith&fontSize=60&fontColor=e0e6ed&animation=fadeIn&desc=International%20Relations%20%C2%B7%20Energy%20Security%20%C2%B7%20Spatial%20Analysis&descSize=16&descAlignY=75" />
 
-<!--
-**tobyn-smith/tobyn-smith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://tobyn-smith.github.io/me/">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=International+Relations+graduate;Researching+energy+security+and+critical+infrastructure;Quantitative+methods+in+R%2C+Python+and+GIS" alt="Typing intro" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  [![Personal site](https://img.shields.io/badge/🌐_tobyn--smith.github.io/me-0d1117?style=for-the-badge&logo=githubpages&logoColor=58A6FF)](https://tobyn-smith.github.io/me/)
+
+</div>
+
+## About
+
+I am an International Relations graduate with a research focus on energy security and the politics of critical infrastructure. Coding is a hobby, and the projects below are independent research projects!
+
+## Research interests
+
+**Energy security and resilience** · exposure of national and regional electricity systems · **Critical infrastructure politics** · interdependence as leverage between states · **Regional focus** · the Baltic Sea region and the United States · **Open-source data** · what publicly available information reveals about strategic vulnerability
+
+## Selected projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <p align="center">
+        <a href="https://github.com/tobyn-smith/energyosint">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=tobyn-smith&repo=energyosint&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="energyosint" />
+        </a>
+      </p>
+      <p align="center">An examination of US state electricity systems, assessing relative exposure and resilience using open-source data.</p>
+    </td>
+    <td width="50%">
+      <p align="center">
+        <a href="https://github.com/tobyn-smith/transit">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=tobyn-smith&repo=transit&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="transit" />
+        </a>
+      </p>
+      <p align="center">A study of energy security dynamics in the Baltic Sea region, where infrastructure and interstate politics converge.</p>
+    </td>
+  </tr>
+</table>
+
+## Methods and tools
+
+<div align="center">
+
+  ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
+  ![R](https://img.shields.io/badge/R-0d1117?style=for-the-badge&logo=r&logoColor=276DC3)
+  ![GIS](https://img.shields.io/badge/GIS-0d1117?style=for-the-badge&logo=qgis&logoColor=589632)
+
+</div>
+
+<p align="center">Statistical analysis in R · data collection and processing in Python · geospatial analysis and cartography with GIS</p>
+
+## Activity
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tobyn-smith&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tobyn-smith&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages" />
+</div>
+
+<br />
+
+<div align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=tobyn-smith&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=e0e6ed" alt="Contribution graph" />
+</div>
+
+## Contact
+
+Further details on my background, writing, and how to reach me are available at **[tobyn-smith.github.io/me](https://tobyn-smith.github.io/me/)**.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
