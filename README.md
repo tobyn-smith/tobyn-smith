@@ -53,21 +53,6 @@ I am an International Relations graduate with a research focus on energy securit
 
 </div>
 
-<p align="center">Statistical analysis in R · data collection and processing in Python · geospatial analysis and cartography with GIS</p>
-
-## Activity
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tobyn-smith&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tobyn-smith&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages" />
-</div>
-
-<br />
-
-<div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=tobyn-smith&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=e0e6ed" alt="Contribution graph" />
-</div>
-
 ## Contact
 
 Further details on my background, writing, and how to reach me are available at **[tobyn-smith.github.io/me](https://tobyn-smith.github.io/me/)**.
