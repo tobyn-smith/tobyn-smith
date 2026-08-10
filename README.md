@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Tobyn%20Smith&fontSize=60&fontColor=e0e6ed&animation=fadeIn&desc=International%20Relations%20%C2%B7%20Energy%20Security%20%C2%B7%20Spatial%20Analysis&descSize=16&descAlignY=75" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Tobyn%20Smith&fontSize=60&fontColor=e0e6ed&animation=fadeIn" />
 
 <p align="center">
   <a href="https://tobyn-smith.github.io/me/">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=International+Relations+graduate;Researching+energy+security+and+critical+infrastructure;Quantitative+methods+in+R%2C+Python+and+GIS" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=International+Relations+graduate;Researcher;Hobbyist+coder" />
   </a>
 </p>
 
@@ -14,7 +14,7 @@
 
 ## About
 
-I am an International Relations graduate with a research focus on energy security and the politics of critical infrastructure. Coding is a hobby, and the projects below are independent research projects!
+I am an International Relations graduate with a research focus on energy security and the politics of critical infrastructure. Coding is a hobby, and the projects below are independent research projects and experiments.
 
 ## Selected projects
 
@@ -23,7 +23,7 @@ I am an International Relations graduate with a research focus on energy securit
     <td width="50%">
       <p align="center">
         <a href="https://github.com/tobyn-smith/energyosint">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=tobyn-smith&repo=energyosint&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="energyosint" />
+          <img src="https://img.shields.io/badge/energyosint-View%20on%20GitHub-58A6FF?style=for-the-badge&logo=github" alt="energyosint" />
         </a>
       </p>
       <p align="center">An examination of US state electricity systems, assessing relative exposure and resilience using open-source data.</p>
@@ -31,7 +31,7 @@ I am an International Relations graduate with a research focus on energy securit
     <td width="50%">
       <p align="center">
         <a href="https://github.com/tobyn-smith/transit">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=tobyn-smith&repo=transit&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="transit" />
+          <img src="https://img.shields.io/badge/transit-View%20on%20GitHub-58A6FF?style=for-the-badge&logo=github" alt="transit" />
         </a>
       </p>
       <p align="center">A study of energy security dynamics in the Baltic Sea region, where infrastructure and interstate politics converge.</p>
