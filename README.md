@@ -16,10 +16,6 @@
 
 I am an International Relations graduate with a research focus on energy security and the politics of critical infrastructure. Coding is a hobby, and the projects below are independent research projects!
 
-## Research interests
-
-**Energy security and resilience** · exposure of national and regional electricity systems · **Critical infrastructure politics** · interdependence as leverage between states · **Regional focus** · the Baltic Sea region and the United States · **Open-source data** · what publicly available information reveals about strategic vulnerability
-
 ## Selected projects
 
 <table>
