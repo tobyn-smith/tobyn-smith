@@ -5,8 +5,6 @@
 **Energy security · Critical infrastructure · OSINT**
 
 <a href="https://tobyn-smith.github.io/me/"><img src="https://img.shields.io/badge/Bio-0D1117?style=for-the-badge&logo=readthedocs&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/tobyn-smith"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://substack.com/"><img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white"></a>
 
 <br>
 
