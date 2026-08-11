@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Tobyn%20Smith&fontSize=60&fontColor=e0e6ed&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Tobyn%20Smith&fontSize=60&fontColor=e0e6ed&animation=fade[...]
 
 <p align="center">
   <a href="https://tobyn-smith.github.io/me/">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=International+Relations+graduate;Researcher;Hobbyist+coder" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=International+Relations+graduate;Resear[...]
   </a>
 </p>
 
@@ -14,7 +14,7 @@
 
 ## About
 
-I am an International Relations graduate with a research focus on energy security and the politics of critical infrastructure. Coding is a hobby, and the projects below are independent research projects and experiments.
+I am an International Relations graduate with a research focus on energy security and the politics of critical infrastructure. Coding is a hobby, and the projects below are independent research projec[...]
 
 ## Selected projects
 
@@ -35,6 +35,18 @@ I am an International Relations graduate with a research focus on energy securit
         </a>
       </p>
       <p align="center">A study of energy security dynamics in the Baltic Sea region, where infrastructure and interstate politics converge.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <p align="center">
+        <a href="https://github.com/tobyn-smith/reader">
+          <img src="https://img.shields.io/badge/reader-View%20on%20GitHub-58A6FF?style=for-the-badge&logo=github" alt="reader" />
+        </a>
+      </p>
+      <p align="center">A small project for exploring repository language composition and quick inspection of code languages.</p>
+    </td>
+    <td width="50%">
     </td>
   </tr>
 </table>
