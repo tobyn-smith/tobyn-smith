@@ -5,9 +5,7 @@
 **Energy security · Critical infrastructure · OSINT**
 
 <a href="https://tobyn-smith.github.io/me/"><img src="https://img.shields.io/badge/Bio-0D1117?style=for-the-badge&logo=readthedocs&logoColor=white"></a>
-
 <br>
-
 International Relations graduate researching energy security and the politics of critical infrastructure.<br>
 Coding is a hobby. The projects below are independent research.
 
